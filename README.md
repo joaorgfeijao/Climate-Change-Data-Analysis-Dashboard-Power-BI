@@ -17,9 +17,5 @@ Source: (https://www.kaggle.com/datasets/algozee/climate-cahnge/data)
 - Visual comparisons of multiple environmental indicators  
 - Dashboard highlighting patterns, trends, and anomalies in climate data
 
-## Screenshots
-![Dashboard Screenshot 1](images/dashboard1.png)  
-![Dashboard Screenshot 2](images/dashboard2.png)  
-
 ## Conclusion
 This project helped improve skills in data visualization, dashboard design, and understanding of global climate trends. It demonstrates the ability to create clear, interactive dashboards to communicate insights from multi-feature datasets.
